@@ -1,0 +1,39 @@
+{
+  "Id": "Releases-50583",
+  "Assembled": "2016-05-20T07:10:48.723+00:00",
+  "ReleaseNotes": "Release created automatically via TeamCity",
+  "ProjectId": "Projects-1",
+  "ChannelId": "Channels-1",
+  "ProjectVariableSetSnapshotId": "variableset-Projects-1-s-22-RG6PW",
+  "LibraryVariableSetSnapshotIds": [
+    "variableset-LibraryVariableSets-2-s-2-MDNLC",
+    "variableset-LibraryVariableSets-20-s-1-R49KG"
+  ],
+  "ProjectDeploymentProcessSnapshotId": "deploymentprocess-Projects-1-s-66-NTPPC",
+  "SelectedPackages": [
+    {
+      "StepName": "Database",
+      "Version": "3.2.8057"
+    },
+    {
+      "StepName": "Rate service",
+      "Version": "3.2.8057"
+    }
+  ],
+  "Version": "3.2.8057",
+  "Links": {
+    "Self": "/api/releases/Releases-50583{?force}",
+    "Project": "/api/projects/Projects-1",
+    "Progression": "/api/releases/Releases-50583/progression",
+    "Deployments": "/api/releases/Releases-50583/deployments{?skip}",
+    "DeploymentTemplate": "/api/releases/Releases-50583/deployments/template",
+    "Artifacts": "/api/artifacts?regarding=Releases-50583",
+    "ProjectVariableSnapshot": "/api/variables/variableset-Projects-1-s-22-RG6PW",
+    "ProjectDeploymentProcessSnapshot": "/api/deploymentprocesses/deploymentprocess-Projects-1-s-66-NTPPC",
+    "Web": "/app#/releases/Releases-50583",
+    "SnapshotVariables": "/api/releases/Releases-50583/snapshot-variables",
+    "Defects": "/api/releases/Releases-50583/defects",
+    "ReportDefect": "/api/releases/Releases-50583/defects",
+    "ResolveDefect": "/api/releases/Releases-50583/defects/resolve"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ItemType": "Artifact",
+  "IsStale": false,
+  "TotalResults": 0,
+  "ItemsPerPage": 30,
+  "Items": [],
+  "Links": {
+    "Self": "/api/artifacts?regarding=Releases-50583",
+    "Template": "/api/artifacts{?skip,regarding}",
+    "Page.Current": "/api/artifacts?skip=0&regarding=Releases-50583"
+  }
+}

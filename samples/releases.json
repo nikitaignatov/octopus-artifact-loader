@@ -1,0 +1,165 @@
+{
+  "ItemType": "Release",
+  "IsStale": false,
+  "TotalResults": 134,
+  "ItemsPerPage": 30,
+  "Items": [
+    {
+      "Id": "Releases-50583",
+      "Assembled": "2016-05-20T07:10:48.723+00:00",
+      "ReleaseNotes": "Release created automatically via TeamCity",
+      "ProjectId": "Projects-1",
+      "ChannelId": "Channels-1",
+      "ProjectVariableSetSnapshotId": "variableset-Projects-1-s-22-RG6PW",
+      "LibraryVariableSetSnapshotIds": [
+        "variableset-LibraryVariableSets-2-s-2-MDNLC",
+        "variableset-LibraryVariableSets-20-s-1-R49KG"
+      ],
+      "ProjectDeploymentProcessSnapshotId": "deploymentprocess-Projects-1-s-66-NTPPC",
+      "SelectedPackages": [
+        {
+          "StepName": "Database",
+          "Version": "3.2.8057"
+        },
+        {
+          "StepName": "Rate service",
+          "Version": "3.2.8057"
+        }
+      ],
+      "Version": "3.2.8057",
+      "Links": {
+        "Self": "/api/releases/Releases-50583{?force}",
+        "Project": "/api/projects/Projects-1",
+        "Progression": "/api/releases/Releases-50583/progression",
+        "Deployments": "/api/releases/Releases-50583/deployments{?skip}",
+        "DeploymentTemplate": "/api/releases/Releases-50583/deployments/template",
+        "Artifacts": "/api/artifacts?regarding=Releases-50583",
+        "ProjectVariableSnapshot": "/api/variables/variableset-Projects-1-s-22-RG6PW",
+        "ProjectDeploymentProcessSnapshot": "/api/deploymentprocesses/deploymentprocess-Projects-1-s-66-NTPPC",
+        "Web": "/app#/releases/Releases-50583",
+        "SnapshotVariables": "/api/releases/Releases-50583/snapshot-variables",
+        "Defects": "/api/releases/Releases-50583/defects",
+        "ReportDefect": "/api/releases/Releases-50583/defects",
+        "ResolveDefect": "/api/releases/Releases-50583/defects/resolve"
+      }
+    },
+    {
+      "Id": "Releases-50582",
+      "Assembled": "2016-05-20T07:06:30.836+00:00",
+      "ReleaseNotes": "Release created automatically via TeamCity",
+      "ProjectId": "Projects-2",
+      "ChannelId": "Channels-2",
+      "ProjectVariableSetSnapshotId": "variableset-Projects-2-snapshot-1",
+      "LibraryVariableSetSnapshotIds": [
+        "variableset-LibraryVariableSets-2-s-2-MDNLC"
+      ],
+      "ProjectDeploymentProcessSnapshotId": "deploymentprocess-Projects-2-s-9-34NZP",
+      "SelectedPackages": [
+        {
+          "StepName": "Trading Website",
+          "Version": "3.2.8056"
+        }
+      ],
+      "Version": "3.2.8056",
+      "Links": {
+        "Self": "/api/releases/Releases-50582{?force}",
+        "Project": "/api/projects/Projects-2",
+        "Progression": "/api/releases/Releases-50582/progression",
+        "Deployments": "/api/releases/Releases-50582/deployments{?skip}",
+        "DeploymentTemplate": "/api/releases/Releases-50582/deployments/template",
+        "Artifacts": "/api/artifacts?regarding=Releases-50582",
+        "ProjectVariableSnapshot": "/api/variables/variableset-Projects-2-snapshot-1",
+        "ProjectDeploymentProcessSnapshot": "/api/deploymentprocesses/deploymentprocess-Projects-2-s-9-34NZP",
+        "Web": "/app#/releases/Releases-50582",
+        "SnapshotVariables": "/api/releases/Releases-50582/snapshot-variables",
+        "Defects": "/api/releases/Releases-50582/defects",
+        "ReportDefect": "/api/releases/Releases-50582/defects",
+        "ResolveDefect": "/api/releases/Releases-50582/defects/resolve"
+      }
+    },
+    {
+      "Id": "Releases-50581",
+      "Assembled": "2016-05-20T07:05:48.840+00:00",
+      "ReleaseNotes": "Release created automatically via TeamCity",
+      "ProjectId": "Projects-1",
+      "ChannelId": "Channels-1",
+      "ProjectVariableSetSnapshotId": "variableset-Projects-1-s-22-RG6PW",
+      "LibraryVariableSetSnapshotIds": [
+        "variableset-LibraryVariableSets-2-s-2-MDNLC",
+        "variableset-LibraryVariableSets-20-s-1-R49KG"
+      ],
+      "ProjectDeploymentProcessSnapshotId": "deploymentprocess-Projects-1-s-66-NTPPC",
+      "SelectedPackages": [
+        {
+          "StepName": "Database",
+          "Version": "3.2.8056"
+        },
+        {
+          "StepName": "Rate service",
+          "Version": "3.2.8056"
+        }
+      ],
+      "Version": "3.2.8056",
+      "Links": {
+        "Self": "/api/releases/Releases-50581{?force}",
+        "Project": "/api/projects/Projects-1",
+        "Progression": "/api/releases/Releases-50581/progression",
+        "Deployments": "/api/releases/Releases-50581/deployments{?skip}",
+        "DeploymentTemplate": "/api/releases/Releases-50581/deployments/template",
+        "Artifacts": "/api/artifacts?regarding=Releases-50581",
+        "ProjectVariableSnapshot": "/api/variables/variableset-Projects-1-s-22-RG6PW",
+        "ProjectDeploymentProcessSnapshot": "/api/deploymentprocesses/deploymentprocess-Projects-1-s-66-NTPPC",
+        "Web": "/app#/releases/Releases-50581",
+        "SnapshotVariables": "/api/releases/Releases-50581/snapshot-variables",
+        "Defects": "/api/releases/Releases-50581/defects",
+        "ReportDefect": "/api/releases/Releases-50581/defects",
+        "ResolveDefect": "/api/releases/Releases-50581/defects/resolve"
+      }
+    },
+    {
+      "Id": "Releases-50580",
+      "Assembled": "2016-05-20T07:01:27.661+00:00",
+      "ReleaseNotes": "Release created automatically via TeamCity",
+      "ProjectId": "Projects-2",
+      "ChannelId": "Channels-2",
+      "ProjectVariableSetSnapshotId": "variableset-Projects-2-snapshot-1",
+      "LibraryVariableSetSnapshotIds": [
+        "variableset-LibraryVariableSets-2-s-2-MDNLC"
+      ],
+      "ProjectDeploymentProcessSnapshotId": "deploymentprocess-Projects-2-s-9-34NZP",
+      "SelectedPackages": [
+        {
+          "StepName": "Trading Website",
+          "Version": "3.2.8055"
+        }
+      ],
+      "Version": "3.2.8055",
+      "Links": {
+        "Self": "/api/releases/Releases-50580{?force}",
+        "Project": "/api/projects/Projects-2",
+        "Progression": "/api/releases/Releases-50580/progression",
+        "Deployments": "/api/releases/Releases-50580/deployments{?skip}",
+        "DeploymentTemplate": "/api/releases/Releases-50580/deployments/template",
+        "Artifacts": "/api/artifacts?regarding=Releases-50580",
+        "ProjectVariableSnapshot": "/api/variables/variableset-Projects-2-snapshot-1",
+        "ProjectDeploymentProcessSnapshot": "/api/deploymentprocesses/deploymentprocess-Projects-2-s-9-34NZP",
+        "Web": "/app#/releases/Releases-50580",
+        "SnapshotVariables": "/api/releases/Releases-50580/snapshot-variables",
+        "Defects": "/api/releases/Releases-50580/defects",
+        "ReportDefect": "/api/releases/Releases-50580/defects",
+        "ResolveDefect": "/api/releases/Releases-50580/defects/resolve"
+      }
+    }
+  ],
+  "Links": {
+    "Self": "/api/releases",
+    "Template": "/api/releases{?skip}",
+    "Page.Next": "/api/releases?skip=30",
+    "Page.Current": "/api/releases?skip=0",
+    "Page.0": "/api/releases?skip=0",
+    "Page.1": "/api/releases?skip=30",
+    "Page.2": "/api/releases?skip=60",
+    "Page.3": "/api/releases?skip=90",
+    "Page.4": "/api/releases?skip=120"
+  }
+}
