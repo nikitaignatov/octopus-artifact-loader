@@ -16,7 +16,7 @@ let output          = args 5 // "reports\integration-test-result-2.6.0-release.x
 let q (a:string)    = if a.Contains("?") then "&" else "?"
 let toMap map data  = data |> Array.map map |> Map.ofArray
 let withKey path    = sprintf "%s%sapiKey=%s" path (q path) key
-let url path       = sprintf "%s%s" server (withKey path)
+let url path        = sprintf "%s%s" server (withKey path)
 
 let releasesData    = url "/api/releases" |> releases.Load
 let lookup          = releasesData.Items |> toMap (fun r-> r.Version.String, r.Id) 
